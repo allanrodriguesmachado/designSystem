@@ -13,9 +13,13 @@
 
 <h3>Technologies and tools</h3>
 - [React.js Documentation](https://pt-br.reactjs.org/)
+
 - [React.JS (Vite)](https://vitejs.dev/)
+
 - [TypeScript](https://www.typescriptlang.org/)
+
 - [Radix UI](https://www.radix-ui.com/)
+
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Storybook](https://storybook.js.org/)
 - [Addon A11y](https://www.npmjs.com/package/@storybook/addon-a11y)
