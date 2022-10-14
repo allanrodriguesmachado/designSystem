@@ -37,11 +37,11 @@ is necessary to have an account [Figma](https://figma.com) to access it.
 <h3>🚀 run project</h3>
 
 <h5>Guide</h5>
+
 ```bash
 # clone the repository
 $ git clone https://github.com/allanrodriguesmachado/designSystem.git
 ```
-
 
 ```bash
 # Install Dependencies
@@ -55,6 +55,8 @@ $ npm run storybook
 ```
 
 Now you can access [`localhost:3000`](http://localhost:3000) from your browser.
+
+---
 
 <h3>📄 license</h3>
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
