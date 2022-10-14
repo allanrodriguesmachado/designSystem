@@ -12,17 +12,16 @@
 - Implementation of tests with Jest in Storybook.
 
 <h3>Technologies and tools</h3>
- - [React.js Documentation](https://pt-br.reactjs.org/)
-
-   - [React.JS (Vite)](https://vitejs.dev/)
-   - [TypeScript](https://www.typescriptlang.org/)
-   - [Radix UI](https://www.radix-ui.com/)
-   - [Tailwind CSS](https://tailwindcss.com/)
-   - [Storybook](https://storybook.js.org/)
-   - [Addon A11y](https://www.npmjs.com/package/@storybook/addon-a11y)
-   - [Github Actions](https://github.com/features/actions)
-   - [Jest](https://jestjs.io/pt-BR/)
-   - [MSW](https://mswjs.io/)
+- [React.js Documentation](https://pt-br.reactjs.org/)
+- [React.JS (Vite)](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Radix UI](https://www.radix-ui.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Storybook](https://storybook.js.org/)
+- [Addon A11y](https://www.npmjs.com/package/@storybook/addon-a11y)
+- [Github Actions](https://github.com/features/actions)
+- [Jest](https://jestjs.io/pt-BR/)
+- [MSW](https://mswjs.io/)
 
 <h3>🔖 Layout</h3>
 
