@@ -12,6 +12,7 @@
 - Implementation of tests with Jest in Storybook.
 
 <h3>Technologies and tools</h3>
+
 - [React.js Documentation](https://pt-br.reactjs.org/)
 - [React.JS (Vite)](https://vitejs.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
