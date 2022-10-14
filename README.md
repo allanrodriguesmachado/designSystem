@@ -24,7 +24,7 @@
 - [Jest](https://jestjs.io/pt-BR/)
 - [MSW](https://mswjs.io/)
 
-<h3>🔖 Layout</h3>
+<h3>Layout</h3>
 
 ![image](https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20Designe%20System.svg)
 
@@ -34,7 +34,7 @@ through [from this link](https://www.figma.com/file/wGGfPzfAU58S4xaGUDM3jU/Ignit
 is necessary to have an account [Figma](https://figma.com) to access it.
 
 
-<h3>🚀 run project</h3>
+<h3>run project</h3>
 
 <h5>Guide</h5>
 
