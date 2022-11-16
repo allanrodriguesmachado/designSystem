@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/12506432/195759740-3fd7e15d-afe7-4c8e-9e11-1767b2ac78bf.png)
 
-<h2>ignite lab | React</h2>
-
 <h3>Development stages</h3>
 
 - Project in Figma
