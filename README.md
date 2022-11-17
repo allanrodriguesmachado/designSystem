@@ -27,7 +27,13 @@
 <!-- ![image](https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20Designe%20System.svg) -->
 
 <h1 align="center">
-  <img alt="dtmoney" title="dtmoney" src="https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20Designe%20System.svg" width="220px" />
+  <img alt="dtmoney" title="dtmoney" src="https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20Designe%20System.svg" width="500px" />
+</h1>
+
+
+<h1 align="center">
+  <img alt="dtmoney" title="dtmoney" src="https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20Designe%20System.svg" width="500px" />
+  <img alt="dtmoney" title="dtmoney" src="https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20Designe%20System.svg" width="500px" />
 </h1>
 
 
