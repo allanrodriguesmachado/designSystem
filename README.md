@@ -22,7 +22,7 @@
 - [Jest](https://jestjs.io/pt-BR/)
 - [MSW](https://mswjs.io/)
 
-<h3>Layout</h3>
+<h3>Layout Figma</h3>
 
 <!-- ![image](https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20Designe%20System.svg) -->
 
@@ -30,10 +30,9 @@
   <img alt="dtmoney" title="dtmoney" src="https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20-%20Web.png" width="500px" />
 </h1>
 
-
 <h1 align="center">
   <img alt="dtmoney" title="dtmoney" src="https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20-%20colors.png" width="400px" />
-  <img alt="dtmoney" title="dtmoney" src="https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20Designe%20System.svg" width="400px" />
+  <img alt="dtmoney" title="dtmoney" src="https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20-%20Components.png" width="400px" />
 </h1>
 
 
