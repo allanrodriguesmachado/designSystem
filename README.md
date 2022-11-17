@@ -24,7 +24,11 @@
 
 <h3>Layout</h3>
 
-![image](https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20Designe%20System.svg)
+<!-- ![image](https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20Designe%20System.svg) -->
+
+<h1 align="center">
+  <img alt="dtmoney" title="dtmoney" src="https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20Designe%20System.svg" width="220px" />
+</h1>
 
 
 You can view the project layout
