@@ -36,11 +36,16 @@ export const CunstComponent: StoryObj<HeadingProps> = {
     args: {
         asChild: true,
         children: (
-            <h1>Head With H1</h1>
+            <h1>Head With </h1>
         )
     },
     argTypes: {
         children: {
+            table: {
+                disable: true
+            }
+        },
+        asChild: {
             table: {
                 disable: true
             }

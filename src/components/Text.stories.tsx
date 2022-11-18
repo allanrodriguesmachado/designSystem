@@ -44,6 +44,11 @@ export const CunstComponent: StoryObj<TextProps> = {
             table: {
                 disable: true
             }
+        },
+        asChild: {
+            table: {
+                disable: true
+            }
         }
     }
 }
