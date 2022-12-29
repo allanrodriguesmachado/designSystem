@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/12506432/195759740-3fd7e15d-afe7-4c8e-9e11-1767b2ac78bf.png)
+![image](https://github.com/allanrodriguesmachado/login-design-system/blob/main/.github/Group%204.png)
 
 <h3>Development stages</h3>
 
