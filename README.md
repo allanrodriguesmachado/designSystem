@@ -52,12 +52,6 @@ $ npm run storybook
 Now you can access [`localhost:3000`](http://localhost:3000) from your browser.
 
 ---
-
-<h3>📄 license</h3>
-
-This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
-
----
 <h3>🎖️ Author</h3>
 
 [<img src="https://avatars.githubusercontent.com/u/54523516?v=4" width="100px;" alt="Foto do Allan Machado no GitHub"/>
