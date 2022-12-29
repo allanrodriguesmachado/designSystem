@@ -24,20 +24,8 @@
 
 <h3>Layout Figma</h3>
 
-<!-- ![image](https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20Designe%20System.svg) -->
-
-<h1 align="center">
-  <img alt="dtmoney" title="dtmoney" src="https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20-%20Web.png" width="500px" />
-</h1>
-
-<h1 align="center">
-  <img alt="dtmoney" title="dtmoney" src="https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20-%20colors.png" width="400px" />
-  <img alt="dtmoney" title="dtmoney" src="https://github.com/allanrodriguesmachado/designSystem/blob/main/.github/Ignite%20Lab%20-%20Components.png" width="400px" />
-</h1>
-
-
 You can view the project layout
-through [from this link](https://www.figma.com/file/wGGfPzfAU58S4xaGUDM3jU/Ignite-Lab-Designe-System?node-id=0%3A1). It
+through [from this link](https://www.figma.com/file/EXw2nYTlY5hjMgJS9oTmgx/LoginDesignSystem?node-id=0%3A1&t=7T0TvnDGpWY6kUvS-0). It
 is necessary to have an account [Figma](https://figma.com) to access it.
 
 
